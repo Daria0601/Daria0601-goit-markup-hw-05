@@ -685,7 +685,7 @@ address ul a {
 .close-btn:focus {
   background-color: #404bbf;
   border: none;
-  fill: white;
+  fill: #ffffff;
 }
 
 .close-btn-icon {

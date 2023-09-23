@@ -713,6 +713,10 @@ address ul a {
 }
 
 .contact-form-field-wrapper {
+  margin-bottom: 8px;
+}
+
+.contact-form-comment-wrapper {
   margin-bottom: 16px;
 }
 
